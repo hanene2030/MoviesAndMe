@@ -7,3 +7,4 @@ And go to API/TMDBApi.js and edit const API_TOKEN = ""
 
 
 
+![Alt Text](https://github.com/hanene2030/Ticketing/blob/master/record.gif)
